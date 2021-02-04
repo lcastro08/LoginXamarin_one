@@ -1,0 +1,15 @@
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\bin\Debug\netstandard2.0\LoginDemoApp.deps.json
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\bin\Debug\netstandard2.0\LoginDemoApp.dll
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\bin\Debug\netstandard2.0\ref\LoginDemoApp.dll
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\bin\Debug\netstandard2.0\LoginDemoApp.pdb
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\obj\Debug\netstandard2.0\LoginDemoApp.csprojAssemblyReference.cache
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\obj\Debug\netstandard2.0\LoginDemoApp.AssemblyInfoInputs.cache
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\obj\Debug\netstandard2.0\LoginDemoApp.AssemblyInfo.cs
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\obj\Debug\netstandard2.0\LoginDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\obj\Debug\netstandard2.0\LoginDemoApp.dll
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\obj\Debug\netstandard2.0\ref\LoginDemoApp.dll
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\obj\Debug\netstandard2.0\LoginDemoApp.pdb
+C:\Users\Luis Castro\source\repos\LoginDemoApp\LoginDemoApp\LoginDemoApp\obj\Debug\netstandard2.0\Home.xaml.g.cs
